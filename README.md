@@ -222,7 +222,7 @@ VALUES (
 INSERT INTO comments_by_user (userid, commentid, videoid, comment)
 VALUES (11111111-1111-1111-1111-111111111111, NOW(), 12345678-1234-1111-1111-111111111111, 'I keep watching this video');
 INSERT INTO comments_by_user (userid, commentid, videoid, comment)
-VALUES (11111111-1111-1111-1111-111111111111, NOW(), 12345678-1234-1111-1111-111111111111, 'Soo many comments for the same video');
+VALUES (11111111-1111-1111-1111-111111111111, NOW(), 12345678-1234-1111-1111-111111111111, 'OMG Soo many comments for the same video');
 
 // A comment from another user for the same video
 INSERT INTO comments_by_user (userid, commentid, videoid, comment)
